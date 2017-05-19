@@ -5,10 +5,16 @@
   padding-bottom: 6rem;
   margin-bottom: 0;
   background-color: #fff;
+  background-image: url('img/banjo.jpg');
+  background-repeat: no-repeat;
+  background-position: bottom center;
+  background-size: cover;
 }
 
-.jumbotron p:last-child {
-  margin-bottom: 0;
+.jumbotron p {
+
+  color: white;
+  text-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 
 .jumbotron-heading {
@@ -17,6 +23,9 @@
 
 .jumbotron .container {
   max-width: 40rem;
+  background-color: rgba(255,255,255,0.3);
+  padding: 2rem;
+  color: white;
 }
 
 .album {
