@@ -35,6 +35,7 @@
 
 .card > img {
   margin-bottom: .75rem;
+  max-width: 100%;
 }
 
 .card-text {
