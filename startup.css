@@ -90,6 +90,10 @@ img {
   padding: 0;
 }
 
+#feature-five img {
+  padding-top: 2rem;
+}
+
 /* media queries */
 /* everything above 991px width */
 @media screen and ( min-width : 991px ) {
