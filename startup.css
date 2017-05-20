@@ -68,5 +68,29 @@ img {
   overflow: hidden;
 }
 
+.feature-content img {
+  margin-bottom: -8rem;
+}
+
+.feature-dark {
+  background: #262f36;
+  color: white;
+
+}
+
+.feature-dark h3 {
+  color: white;
+}
+
+
+
+/* media queries */
+/* everything above 991px width */
+@media screen and ( min-width : 991px ) {
+  .row {
+    display: flex;
+    align-items: center;
+  }
+}
 
 
