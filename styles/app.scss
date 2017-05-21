@@ -20,7 +20,7 @@
    Core mixins
    -------------------------------------------------------- */
 
-//@import "../bower_components/bootstrap/scss/mixins";
+@import "../bower_components/bootstrap/scss/mixins";
 
 
 
@@ -28,8 +28,8 @@
    Reset and dependencies
    -------------------------------------------------------- */
 
-//@import "../bower_components/bootstrap/scss/normalize";
-//@import "../bower_components/bootstrap/scss/print";
+@import "../bower_components/bootstrap/scss/normalize";
+@import "../bower_components/bootstrap/scss/print";
 
 
 
@@ -37,14 +37,14 @@
    Core CSS
    -------------------------------------------------------- */
 
-//@import "../bower_components/bootstrap/scss/reboot";
-//@import "../bower_components/bootstrap/scss/type";
+@import "../bower_components/bootstrap/scss/reboot";
+@import "../bower_components/bootstrap/scss/type";
 //@import "../bower_components/bootstrap/scss/images";
 //@import "../bower_components/bootstrap/scss/code";
-//@import "../bower_components/bootstrap/scss/grid";
+@import "../bower_components/bootstrap/scss/grid";
 //@import "../bower_components/bootstrap/scss/tables";
 //@import "../bower_components/bootstrap/scss/forms";
-//@import "../bower_components/bootstrap/scss/buttons";
+@import "../bower_components/bootstrap/scss/buttons";
 
 
 
@@ -53,12 +53,12 @@
    -------------------------------------------------------- */
 
 //@import "../bower_components/bootstrap/scss/animation";
-//@import "../bower_components/bootstrap/scss/dropdown";
+@import "../bower_components/bootstrap/scss/dropdown";
 //@import "../bower_components/bootstrap/scss/button-group";
 //@import "../bower_components/bootstrap/scss/input-group";
 //@import "../bower_components/bootstrap/scss/custom-forms";
-//@import "../bower_components/bootstrap/scss/nav";
-//@import "../bower_components/bootstrap/scss/navbar";
+@import "../bower_components/bootstrap/scss/nav";
+@import "../bower_components/bootstrap/scss/navbar";
 //@import "../bower_components/bootstrap/scss/card";
 //@import "../bower_components/bootstrap/scss/breadcrumb";
 //@import "../bower_components/bootstrap/scss/pagination";
@@ -89,7 +89,7 @@
    Utility classes
    -------------------------------------------------------- */
 
-//@import "../bower_components/bootstrap/scss/utilities";
+@import "../bower_components/bootstrap/scss/utilities";
 
 
 
